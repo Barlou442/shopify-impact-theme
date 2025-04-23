@@ -231,7 +231,7 @@
         "subheading": "",
         "title": "Collection list",
         "content": "",
-        "link_url": "",
+        "link_url": "shopify://collections/nouveaute",
         "link_text": "View all",
         "background": "",
         "background_gradient": "",
@@ -243,7 +243,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "nouveaute",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -252,7 +252,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Nouveauté",
         "content": "",
         "link_url": "",
         "link_text": "View all",
