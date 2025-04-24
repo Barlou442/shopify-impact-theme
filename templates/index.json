@@ -838,14 +838,14 @@
         "view_product": "View",
         "viewing_product": "",
         "show_product_swatch": true,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "chart_background": "",
+        "chart_background": "#ffffff",
         "chart_text_color": "",
         "chart_true_false_color": ""
       }
