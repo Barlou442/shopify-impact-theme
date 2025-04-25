@@ -677,25 +677,25 @@
             "content": "<p>Oui, dans le menu vous retrouverez un onglet suivre ma commande. Une fois dessus il vous suffira d’utilisez le numéro de colis que nous vous avons envoyé par mail.</p>"
           }
         },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "Quel est le délai de livraison de mes commandes ?",
-            "content": "<p>Toute les commandes sont livrées entre 15 et 25 jours ouvrés.</p>"
-          }
-        },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
             "title": "Les maillots sont-ils authentiques ?",
             "content": "<p>Non, nos maillots sont des répliques de très bonne qualités.</p>"
           }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de livraison de mes commandes ?",
+            "content": "<p>Toute les commandes sont livrées entre 15 et 25 jours ouvrés.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "166442457738b23caf-1"
       ],
       "settings": {
         "full_width": false,
