@@ -573,19 +573,19 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
+            "author": "Etienne.P",
             "content": "Les maillots sont de bonne qualité, très content de notre achat.",
-            "show_rating": false,
-            "rating": 4
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
+            "author": "Eddie.B",
             "content": "La livraison a été très rapide en plus d’avoir été gratuite",
-            "show_rating": false,
+            "show_rating": true,
             "rating": 4
           }
         }
