@@ -178,7 +178,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "real-madrid",
             "subheading": "",
             "title": "",
             "url": "",
@@ -192,7 +192,7 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "manchester-city",
             "subheading": "",
             "title": "",
             "url": "",
@@ -206,7 +206,7 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "bresil",
             "subheading": "",
             "title": "",
             "url": "",
@@ -229,7 +229,7 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
+        "title": "Collection vedettes",
         "content": "",
         "link_url": "shopify://collections/ac-milan",
         "link_text": "Tout voir",
