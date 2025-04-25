@@ -175,6 +175,56 @@
         "text_gradient": ""
       }
     },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "nouveaute",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Nouveauté",
+        "content": "",
+        "link_url": "",
+        "link_text": "Tout voir",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_XL9mwB": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "saison-25-26",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Saison 25-26",
+        "content": "",
+        "link_url": "",
+        "link_text": "Tout voir",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -241,56 +291,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "nouveaute",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Nouveauté",
-        "content": "",
-        "link_url": "",
-        "link_text": "Tout voir",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "featured_collection_XL9mwB": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "saison-25-26",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Saison 25-26",
-        "content": "",
-        "link_url": "",
-        "link_text": "Tout voir",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "impact-text": {
@@ -724,10 +724,10 @@
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
-    "collection-list",
     "featured-collection",
     "featured_collection_XL9mwB",
     "impact-text",
+    "collection-list",
     "image-with-text-overlay",
     "media-grid",
     "before-after-image",
