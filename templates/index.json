@@ -522,7 +522,7 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -632,7 +632,7 @@
         "full_width": true,
         "images_layout": "scattered",
         "collage_images_alignment": "middle",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "button_background": "",
