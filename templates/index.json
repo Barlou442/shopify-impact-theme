@@ -360,20 +360,20 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": ""
           }
         }
       },
@@ -394,6 +394,46 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "rich_text_YJqUzF": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_NfRYQX": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_tKjQFD": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_dwEeUh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Ressemblez à vos joueurs préférés grâce à maillotfactory.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_NfRYQX",
+        "heading_tKjQFD",
+        "richtext_dwEeUh"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "media-grid": {
@@ -731,6 +771,7 @@
     "impact-text",
     "collection-list",
     "image-with-text-overlay",
+    "rich_text_YJqUzF",
     "media-grid",
     "before-after-image",
     "press",
