@@ -165,10 +165,10 @@
       "settings": {
         "full_width": true,
         "text": "CODE: MAILLOTFACTORY10",
-        "text_size": "large",
+        "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "scrolling_speed": 3,
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
