@@ -15,8 +15,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banner-2.jpg",
-            "mobile_image": "shopify://shop_images/mobile-2.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -37,8 +35,6 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre_1200_x_800_mm.png",
-            "mobile_image": "shopify://shop_images/Ajouter_un_titre_dc2a6793-4293-472d-9cf3-e78a5abe18ad.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -164,7 +160,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "CODE: MAILLOTFACTORY10",
+        "text": "CODE: STREETCASE10",
         "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -387,8 +383,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/IMG_2649.jpg",
-        "mobile_image": "shopify://shop_images/IMG_2649.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -442,7 +436,6 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_2651_46dd9878-65b3-40d5-881c-160c117b5b97.jpg",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -464,7 +457,6 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_2652_a31b4844-886e-4e99-a6c8-121db481befa.jpg",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -486,7 +478,6 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_2653.jpg",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
@@ -508,7 +499,6 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_2650.jpg",
             "title": "",
             "heading_tag": "h4",
             "link_url": "",
