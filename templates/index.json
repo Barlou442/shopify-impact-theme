@@ -737,7 +737,7 @@
           "type": "item",
           "settings": {
             "title": "Quel est le délai de livraison de mes commandes ?",
-            "content": "<p>Toute les commandes sont livrées entre 15 et 25 jours ouvrés.</p>"
+            "content": "<p>Toute les commandes sont livrées entre 15 et 25 jours ouvrés en France, Belgique et Suisse.</p>"
           }
         }
       },
