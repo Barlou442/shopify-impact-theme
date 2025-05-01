@@ -37,8 +37,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_titre_1200_x_800_mm.png",
-            "mobile_image": "shopify://shop_images/Ajouter_un_titre_dc2a6793-4293-472d-9cf3-e78a5abe18ad.png",
+            "image": "shopify://shop_images/IMG_2731.jpg",
+            "mobile_image": "shopify://shop_images/IMG_2730.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
