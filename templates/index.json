@@ -165,7 +165,7 @@
       "settings": {
         "full_width": true,
         "text": "CODE: MAILLOTFACTORY10",
-        "text_size": "small",
+        "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 3,
