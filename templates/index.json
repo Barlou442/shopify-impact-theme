@@ -203,8 +203,11 @@
     "featured_collection_XL9mwB": {
       "type": "featured-collection",
       "settings": {
-        "collection": "saison-25-26",
-        "products": [],
+        "collection": "best-seller",
+        "products": [
+          "maillot-psg-bleu",
+          "maillot-santos-retro-11-12-domicile"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
