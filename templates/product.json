@@ -113,7 +113,13 @@
       "type": "related-products",
       "settings": {
         "recommendations_count": 6,
-        "products": [],
+        "products": [
+          "maillot-ac-milan-vert",
+          "maillot-real-madrid-rose-blanc",
+          "maillot-maroc-concept-bleu-fonce-et-rose",
+          "maillot-santos-retro-11-12-domicile",
+          "maillot-arsenal-entrainement-24-25"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
