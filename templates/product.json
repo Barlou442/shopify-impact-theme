@@ -113,12 +113,7 @@
       "type": "related-products",
       "settings": {
         "recommendations_count": 6,
-        "products": [
-          "maillot-santos-retro-11-12-domicile",
-          "maillot-manchester-city-annee-du-dragon-blanc",
-          "maillot-real-madrid-25-26-domicile",
-          "maillot-ac-milan-25-26-domicile"
-        ],
+        "products": [],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
