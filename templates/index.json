@@ -179,7 +179,12 @@
       "type": "featured-collection",
       "settings": {
         "collection": "nouveaute",
-        "products": [],
+        "products": [
+          "maillot-real-madrid-rose-blanc",
+          "maillot-manchester-city-concept",
+          "maillot-ac-milan-vert",
+          "maillot-maroc-concept-bleu"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
