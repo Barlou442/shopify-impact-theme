@@ -735,7 +735,7 @@
           "type": "item",
           "settings": {
             "title": "Puis-je suivre mon colis?",
-            "content": "<p>Oui, dans le menu vous retrouverez un onglet suivre ma commande. Une fois dessus il vous suffira d’utilisez le numéro de colis que nous vous avons envoyé par mail.</p>"
+            "content": "<p>Oui, dans le menu vous retrouverez un onglet suivre ma commande. Une fois dessus il vous suffira d’utilisez le numéro de suivi que nous vous avons envoyé par mail.</p>"
           }
         },
         "166442457738b23caf-2": {
