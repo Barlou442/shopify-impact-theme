@@ -44,11 +44,6 @@
         "disabled": true,
         "settings": {}
       },
-      "14947870889598929745": {
-        "type": "shopify://apps/smartbot/blocks/app-embed/d9407b81-7d3e-4612-91c3-2020086e2073",
-        "disabled": false,
-        "settings": {}
-      },
       "7916451724185839711": {
         "type": "shopify://apps/avis-product-options/blocks/avisplus-product-options/e076618e-4c9c-447f-ad6d-4f1577799c29",
         "disabled": false,
@@ -67,6 +62,11 @@
       "6143736321357441667": {
         "type": "shopify://apps/tidio-live-chat-chatbots/blocks/app-embed/1002274d-fb18-4939-98f6-5f05a8deeadc",
         "disabled": false,
+        "settings": {}
+      },
+      "14947870889598929745": {
+        "type": "shopify://apps/smartbot/blocks/app-embed/d9407b81-7d3e-4612-91c3-2020086e2073",
+        "disabled": true,
         "settings": {}
       }
     }
