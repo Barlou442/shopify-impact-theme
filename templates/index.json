@@ -306,7 +306,7 @@
         "item_Bexfii": {
           "type": "item",
           "settings": {
-            "title": "ENSEMBLE",
+            "title": "PROMOTION",
             "subheading": "",
             "content": "",
             "button_text": "",
@@ -348,7 +348,7 @@
         "products_per_row_mobile": "1",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "PROMOTION",
+        "title": "Ensembles",
         "content": "",
         "link_url": "",
         "link_text": "Tout voir",
