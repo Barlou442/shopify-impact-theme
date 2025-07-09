@@ -300,6 +300,67 @@
         "button_text_color": ""
       }
     },
+    "impact_text_qVwcTk": {
+      "type": "impact-text",
+      "blocks": {
+        "item_Bexfii": {
+          "type": "item",
+          "settings": {
+            "title": "ENSEMBLE",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_Bexfii"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "heading_text_color": "#000000",
+        "heading_gradient": "radial-gradient(rgba(121, 128, 252, 1), rgba(215, 204, 250, 1) 100%, rgba(247, 197, 204, 1) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "featured_collection_BXLjyF": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "PROMOTION",
+        "content": "",
+        "link_url": "",
+        "link_text": "Tout voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -790,6 +851,8 @@
     "featured-collection",
     "featured_collection_XL9mwB",
     "impact-text",
+    "impact_text_qVwcTk",
+    "featured_collection_BXLjyF",
     "collection-list",
     "image-with-text-overlay",
     "rich_text_YJqUzF",
