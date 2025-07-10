@@ -9878,3 +9878,7 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
+.price__badge-sale {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
