@@ -340,7 +340,15 @@
       "name": "Featured collection",
       "settings": {
         "collection": "ensembles",
-        "products": [],
+        "products": [
+          "ensemble-argentine-2026",
+          "ensemble-fc-barcelone-2029",
+          "ensemble-inter-milan-2025",
+          "ensemble-juventus-2026",
+          "ensemble-mexique-2025",
+          "ensemble-real-madrid-2028",
+          "ensemble-2026"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
