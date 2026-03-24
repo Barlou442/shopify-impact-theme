@@ -180,13 +180,10 @@
       "settings": {
         "collection": "nouveaute",
         "products": [
-          "maillot-psg-ligue-des-champions-special",
+          "maillot-psg-edition-special-nuit",
           "maillot-real-madrid-rose-blanc",
-          "maillot-fc-barcelone-concept-1",
-          "maillot-real-madrid-dragon-rose-2025",
-          "maillot-paris-fc-x-ninho",
-          "maillot-bresil-perroquet",
-          "maillot-psg-concept-noir-et-violet"
+          "maillot-benfica-fourth-25-26",
+          "maillot-chelsea-edition-limitee-rose"
         ],
         "full_width": true,
         "stack_products": false,
