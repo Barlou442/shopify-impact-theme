@@ -211,11 +211,11 @@
       "settings": {
         "collection": "coupe-du-monde-2026",
         "products": [
-          "maillot-psg-bleu",
-          "maillot-santos-retro-11-12-domicile",
-          "maillot-d-entrainement-italie-2023",
-          "maillot-flamengo-rose",
-          "maillot-bresil-oiseaux"
+          "maillot-france-exterieur-2026",
+          "maillot-portugal-avant-match-2026-version-player",
+          "maillot-belgique-exterieur-2026",
+          "maillot-bresil-exterieur-2026",
+          "maillot-allemagne-exterieur-2026"
         ],
         "full_width": true,
         "stack_products": false,
