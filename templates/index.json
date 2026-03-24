@@ -848,6 +848,38 @@
         "accordion_background": "#000000",
         "accordion_text_color": "#ffffff"
       }
+    },
+    "featured_collection_EhhRHf": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "veste",
+        "products": [
+          "veste-fc-barcelone-noir-et-bleu",
+          "veste-arsenal",
+          "veste-bresil-noir",
+          "veste-bresil-verte",
+          "veste-real-madrid"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -859,6 +891,7 @@
     "impact-text",
     "impact_text_qVwcTk",
     "featured_collection_BXLjyF",
+    "featured_collection_EhhRHf",
     "collection-list",
     "image-with-text-overlay",
     "rich_text_YJqUzF",
