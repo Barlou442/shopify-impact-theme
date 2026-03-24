@@ -211,7 +211,7 @@
     "featured_collection_XL9mwB": {
       "type": "featured-collection",
       "settings": {
-        "collection": "best-seller",
+        "collection": "coupe-du-monde-2026",
         "products": [
           "maillot-psg-bleu",
           "maillot-santos-retro-11-12-domicile",
@@ -226,7 +226,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Nos Best Seller",
+        "title": "Coupe du Monde 2026",
         "content": "",
         "link_url": "",
         "link_text": "Tout voir",
