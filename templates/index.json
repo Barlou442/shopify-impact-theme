@@ -164,7 +164,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Bien lavez vos maillots à 30℃ maximum !",
+        "text": "Bien laver vos maillots à 30℃ maximum !",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
