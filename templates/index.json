@@ -164,7 +164,22 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Bien laver vos maillots à 30℃ maximum !",
+        "text": "🧼 Lavage à l’envers à 30 °C maximum !",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "scrolling_text_DcAcUf": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "🧼 Lavage à l’envers à 30 °C maximum !",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -886,6 +901,7 @@
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
+    "scrolling_text_DcAcUf",
     "featured-collection",
     "featured_collection_XL9mwB",
     "impact-text",
